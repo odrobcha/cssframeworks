@@ -1,0 +1,24 @@
+.test{
+    border: 1px solid red;
+}
+
+body{
+    background-color: rgba(219, 234, 254);
+    padding: 40px;
+}
+.container-fluid{
+    padding: 0;
+}
+.row .col{
+    justify-items: center;
+}
+.text-reset{
+    rgb(75, 85, 99);
+}
+.h-px{
+    height: 1px;
+}
+.h-100px{
+    height: 100px;
+}
+
